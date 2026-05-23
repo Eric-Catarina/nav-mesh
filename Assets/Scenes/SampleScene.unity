@@ -1131,7 +1131,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 790c39920ecf3a94d96339c9f5d7fa43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AgenteControlador
-  tipoDoAgente: 0
   alvo: {fileID: 1689111111}
 --- !u!1 &259172502
 GameObject:
@@ -1542,7 +1541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 790c39920ecf3a94d96339c9f5d7fa43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AgenteControlador
-  tipoDoAgente: 2
   alvo: {fileID: 1873969415}
 --- !u!195 &368723980
 NavMeshAgent:
@@ -2783,7 +2781,7 @@ Transform:
   m_GameObject: {fileID: 888910354}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -100, y: 0.9, z: -10.6}
+  m_LocalPosition: {x: -99.26, y: 0.9, z: -19.06}
   m_LocalScale: {x: 3, y: 0.52, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2801,7 +2799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 790c39920ecf3a94d96339c9f5d7fa43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AgenteControlador
-  tipoDoAgente: 1
   alvo: {fileID: 1853846889}
 --- !u!195 &888910357
 NavMeshAgent:
@@ -2951,7 +2948,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.AI.Navigation::Unity.AI.Navigation.NavMeshLink
   m_SerializedVersion: 1
   m_AgentTypeID: -334000983
-  m_StartPoint: {x: 0, y: 0.6438563, z: -2.5}
+  m_StartPoint: {x: 0, y: 0.75411797, z: -2.5}
   m_EndPoint: {x: 0, y: 0, z: 2.5}
   m_StartTransform: {fileID: 0}
   m_EndTransform: {fileID: 1781851766}
